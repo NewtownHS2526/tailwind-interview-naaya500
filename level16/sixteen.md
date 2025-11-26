@@ -15,5 +15,5 @@
 - Creating custom component classes
 - When to use `@apply` vs utility classes
 
-**Note:** You'll need to add a `<style>` tag with `@tailwind base;`, `@tailwind components;`, and `@tailwind utilities;` directives.
+**Note:** You'll need to add a  `<style>` tag with `@tailwind base;`, `@tailwind components;`, and `@tailwind utilities;` directives.
 

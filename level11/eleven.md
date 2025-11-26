@@ -7,6 +7,7 @@
 2. Add `p-6` to the second `<div>` element - adds padding to the card
 3. Add `rounded-t-lg w-full` to the first `<div>` element (gradient image) - styles the card image
 4. Add `space-y-4` to the second `<div>` element (white card body) - adds vertical spacing between children
+5. Add `space-y-4` to the last inner `<div>` element (footer section) - creates footer divider
 5. Add `border-t border-gray-200 pt-4` to the last inner `<div>` element (footer section) - creates footer divider
 
 **Key Concepts:**

@@ -2,8 +2,8 @@
 
 **Objective:** Master Tailwind's typography utilities for text styling.
 
-**Tasks:**
-1. Add `text-4xl font-bold` to the `<h1>` element - makes the main heading large and bold
+**Tasks:**text-4xl font-bold`
+1. Add ` to the `<h1>` element - makes the main heading large and bold
 2. Add `text-xl font-medium` to the `<h2>` element - sets the subtitle size and weight
 3. Add `text-gray-600` to the first `<p>` element - applies gray color to the body paragraph
 4. Add `text-sm italic` to the second `<p>` element (author name) - makes it small and italic
